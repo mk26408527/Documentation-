@@ -1,5 +1,6 @@
-🛠️ Marketplace Builder Hackathon 2025
-Day 2: Planning the Technical Foundation
+**🛠️ Marketplace Builder Hackathon 2025
+Day 2: Planning the Technical Foundation**
+
 Today, we focused on creating the technical foundation for the marketplace platform, with Sanity CMS handling all backend operations.
 
 📌 Key Details
