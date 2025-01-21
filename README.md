@@ -1,7 +1,6 @@
-****🛠️ Marketplace Builder Hackathon 2025
-Day 2: Planning the Technical Foundation****
+****🛠️ Marketplace Builder Hackathon 2025🙌
 
-Today, we focused on creating the technical foundation for the marketplace platform, with Sanity CMS handling all backend operations.
+Going to launch my first ever e-commerce store Insha'Allah👀🤍
 
 📌 Key Details
 System Overview
